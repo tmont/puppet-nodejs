@@ -3,6 +3,8 @@ class nodejs (
 	$src_dir = '/opt/node-src',
 	$bin_dir = '/opt/node',
 ) {
+	include gcc
+	
 	# https://github.com/joyent/node/wiki/Installation#building-on-gnulinux-and-other-unix
 
 	anchor { 'nodejs::begin':
