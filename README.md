@@ -13,7 +13,7 @@ class { 'nodejs':
 }
 ```
 
-It builds NodeJS from source. If you want use the builtin
+It builds NodeJS from source. If you want to use the builtin
 packages or Node's PPA, this is not the module for you.
 
 After installation, the module creates the following symbolic links:
