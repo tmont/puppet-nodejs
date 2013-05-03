@@ -1,6 +1,6 @@
 name    'tmont-nodejs'
 version '0.0.1'
-source 'http://github.com/tmont/puppet-nodejs
+source 'http://github.com/tmont/puppet-nodejs'
 author 'tmont'
 license 'MIT'
 summary 'Puppet NodeJS module'
